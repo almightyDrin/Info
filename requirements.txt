@@ -1,0 +1,12 @@
+Needed for development:
+
+Google Account
+   - Create a google account that will handle the project.
+
+Google API key
+   - To create/generate a google API key we need to set first the billing information, 
+     you can set it at https://console.cloud.google.com/billing.
+   - Here are the lists of the possible API's that we'll be needing for google drive https://developers.google.com/drive
+   - After setting up the billing information I will personally generate the required API key for API Services that 
+     I will use.
+
